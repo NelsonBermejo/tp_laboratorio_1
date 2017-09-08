@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1504468516 source:c:\users\user\documents\libreria tp\trabajo practico calculadora\funmath.c
+	<stdio.h>
+	<stdlib.h>
+	"funMath.h"
+
+1504468973 c:\users\user\documents\libreria tp\trabajo practico calculadora\funmath.h
+
+1504468500 source:c:\users\user\documents\libreria tp\trabajo practico calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funMath.h"
+
+1504844211 source:c:\users\user\desktop\consultas\libreria tp\trabajo practico calculadora\funmath.c
+	<stdio.h>
+	<stdlib.h>
+	"funMath.h"
+
+1504905266 c:\users\user\desktop\consultas\libreria tp\trabajo practico calculadora\funmath.h
+
+1504844628 source:c:\users\user\desktop\consultas\libreria tp\trabajo practico calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funMath.h"
+
